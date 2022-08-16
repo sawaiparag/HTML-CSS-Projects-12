@@ -1,0 +1,224 @@
+/* POPPINS FONT FAMILY */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+body{
+  background-color: #f4fdff;
+}
+header{
+  height: 550px;
+  background-color: #3684a8;
+}
+.oneimage{
+   height: 70%;
+    width: 23%;
+
+}
+nav{
+  float: right;
+  margin-top: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+  color: white;
+  
+}
+.nav-item{
+  margin-right: 70px;
+  text-decoration: none;
+  color: white;
+}
+.nav-item-active{
+  margin-left: 20px;
+  padding: 0.5em 1.9em;
+  border-radius: 5px;
+  border-color: white;
+  background-color: #b3c09a;
+  text-decoration: none;
+  color: white;
+
+}
+.logo{
+  margin-top: 15px;
+  margin-left: 20px;
+}
+.oneimage{
+  margin-left: 90px;
+  margin-top: 60px;
+}
+.texts{
+  float: right;
+  margin-right: 500px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 60px;
+  font-size: larger;
+}
+
+
+.email{
+  height: 45px;
+  background-color: #ffffff;
+  color: rgb(68, 52, 136);
+  font-size: small;
+  text-align: left;
+  margin-top: 20px;
+}
+
+.email h4{
+  
+  margin-left: 30px;
+  margin-top: 0px;
+}
+.btn{
+  padding: 0.5em 1.9em;
+  border-radius: 5px;
+  border-color: white;
+  background-color: #b3c09a;
+  float: right;
+  margin-right: 6px;
+  margin-top: -35px;
+}
+.middle{
+  text-align: center;
+  font-size: larger;
+}
+.one{
+  margin-left: -800px;
+}
+.two{
+  margin-top: -120px;
+  margin-left: -300px;
+}
+.three{
+  margin-top: -120px;
+  margin-left: 150px;
+}
+.four{
+  margin-top: -120px;
+  margin-left: 550px;
+}
+.two-img{
+  width: 50%;
+
+}
+.care{
+  margin-top: 80px;
+}
+.Website{
+  margin-left: 250px;
+  margin-top: 110px;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+
+.btntwo{
+  padding: 0.5em 1.9em;
+  border-radius: 5px;
+  border-color: white;
+  background-color: #b3c09a;
+}
+
+.three-img{
+  float: right;
+  margin-top: -280px;
+  margin-right: 300px;
+
+}
+.four-img{
+  width: 29%;
+  margin-top: 110px;
+}
+
+.proven-text{
+  float: right;
+  margin-right: 290px;
+  margin-top: 150px;
+}
+.btnthree{
+  padding: 0.5em 1.9em;
+  border-radius: 5px;
+  border-color: white;
+  background-color: #b3c09a;
+}
+.five-img{
+  width: 35%;
+  float: right;
+  margin-right: 300px;
+  margin-top: -300px;
+  
+}
+.Judge{
+  margin-top: 150px;
+}
+.text-centre{
+  margin-top: 100px;
+}
+.text-right{
+  float: right;
+  margin-right: 300px;
+  margin-top: -130px;
+}
+
+.photo{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 300px;
+}
+.last-btn{
+  margin-left: 370px;
+  padding: 0.5em 1.9em;
+  border-radius: 5px;
+  border-color: white;
+  background-color: #b3c09a;
+  
+}
+.Footer{
+  margin-left: -260px;
+  width: 205vh;
+  height: 400px;
+  background-color: black;
+
+}
+
+.logo-down{
+  margin-left: 240px;
+  margin-top: 30px;
+}
+.last{
+  float: right;
+  margin-right: 290px;
+  margin-top: 30px;
+}
+.line{
+  width: 60%;
+  margin-left: 240px;
+  margin-top: 29px;
+}
+
+.Footer-Down{
+  color: white;
+  display: flex;
+  line-height: 190%;
+}
+
+.last-one{
+  margin-left: 230px;
+
+}
+.last-two{
+  margin-left: 50px;
+}
+.last-three{
+  margin-left: 50px;
+}
+.last-four{
+  margin-left: 70px;
+}
+.last-five{
+  margin-left: 100px;
+}
